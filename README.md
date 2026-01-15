@@ -96,6 +96,8 @@ Comprehensive analysis of Apple Inc.’s financial performance and projections, 
 - **Cash Flow:** FCF declining due to capital investments despite rising profits.  
 - **Forward Outlook:** Revenue and net income grow steadily; FCF declines under all scenarios, consistent with reinvestment strategy.
 
+Dashboard link: https://apple-financial-analysis-ngofbhvjqxyijf5mk7ljuq.streamlit.app/
+
 ---
 
 [Back to Top](#apple-inc-business-summary-2021-2030) 🔝
